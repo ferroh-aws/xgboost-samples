@@ -1,0 +1,10 @@
+jupyter
+jupyterlab==4.0.4
+pandas
+numpy
+xgboost
+matplotlib
+bokeh
+seaborn
+sagemaker==2.174.0
+scikit-learn
